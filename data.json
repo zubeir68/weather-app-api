@@ -1,0 +1,97 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "17",
+          "short_name": "17",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Am Brunnengarten",
+          "short_name": "Am Brunnengarten",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Neckarstadt",
+          "short_name": "Neckarstadt",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Mannheim",
+          "short_name": "MA",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Karlsruhe",
+          "short_name": "KA",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Baden-Württemberg",
+          "short_name": "BW",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Germany",
+          "short_name": "DE",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68169",
+          "short_name": "68169",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Am Brunnengarten 17, 68169 Mannheim, Germany",
+      "geometry": {
+        "location": {
+          "lat": 49.50478,
+          "lng": 8.484529999999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 49.50612898029149,
+            "lng": 8.485878980291501
+          },
+          "southwest": {
+            "lat": 49.50343101970849,
+            "lng": 8.483181019708496
+          }
+        }
+      },
+      "place_id": "ChIJlSugpX_Ol0cR5uWsSoBPc7U",
+      "plus_code": {
+        "compound_code": "GF3M+WR Mannheim, Germany",
+        "global_code": "8FXCGF3M+WR"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}
